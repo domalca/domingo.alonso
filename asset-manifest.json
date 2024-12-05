@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/domingo.alonso/static/css/main.e00938ab.css",
+    "main.js": "/domingo.alonso/static/js/main.fbc286e8.js",
+    "static/media/ene_24_mod3.jpg": "/domingo.alonso/static/media/ene_24_mod3.9758540630fc26e4d702.jpg",
+    "static/media/reactjs.png": "/domingo.alonso/static/media/reactjs.cd241965ff5ab642596c.png",
+    "static/media/devops_cert.png": "/domingo.alonso/static/media/devops_cert.78191e24ebad9fce35d3.png",
+    "static/media/reactNative.png": "/domingo.alonso/static/media/reactNative.49339ca6f3fff1c156fe.png",
+    "static/media/mysql.png": "/domingo.alonso/static/media/mysql.cae96d5622ee7c4b001d.png",
+    "static/media/html5.png": "/domingo.alonso/static/media/html5.ed9b754f3eb585bfd9cd.png",
+    "static/media/php.png": "/domingo.alonso/static/media/php.79ffea74dd7a0816dca9.png",
+    "static/media/laravel.png": "/domingo.alonso/static/media/laravel.05f11a788a2f798cc892.png",
+    "static/media/java.png": "/domingo.alonso/static/media/java.780e4ce7a5fdadc75df4.png",
+    "static/media/css3.png": "/domingo.alonso/static/media/css3.5fa2d309d1a66a2e7ab7.png",
+    "static/media/bootstrap.png": "/domingo.alonso/static/media/bootstrap.5295d6279fb8ad9f47a7.png",
+    "static/media/Terraform.png": "/domingo.alonso/static/media/Terraform.420d6e84edc3a0b5fc1b.png",
+    "static/media/javascript.png": "/domingo.alonso/static/media/javascript.70e6e96eeabe732298a6.png",
+    "index.html": "/domingo.alonso/index.html",
+    "main.e00938ab.css.map": "/domingo.alonso/static/css/main.e00938ab.css.map",
+    "main.fbc286e8.js.map": "/domingo.alonso/static/js/main.fbc286e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e00938ab.css",
+    "static/js/main.fbc286e8.js"
+  ]
+}
